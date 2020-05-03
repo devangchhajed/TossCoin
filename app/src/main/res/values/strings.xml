@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toss Coin</string>
+    <string name="highScore">Highscore:\u0020</string>
+    <string name="score">Score:\u0020</string>
+    <string name="heads">Heads</string>
+    <string name="Toss">Toss</string>
+    <string name="tails">Tails</string>
+    <string name="new_highscore">New Highscore !!!</string>
+    <string name="heads_first_letter">H</string>
+    <string name="tails_first_letter">T</string>
+</resources>
